@@ -1,5 +1,6 @@
 # FlexDrummer
-Repo for the FlexDrummer Glove - https://www.amoghmatt.com/flexdrummer
+
+Demo Video - https://youtu.be/o9RlugdTjzQ
 
 
 The FlexDrummer is a wearable glove created with using an Arduino Uno and Max (v7). Each finger is assigned to one prominent part of the drum kit. The hi-hat, known for keeping faster moving rhythms (e.g. sixteenth notes), is assigned to the thumb, due to its faster tapping rates (C.V. Jackson,1953). Similarly, the bass drum is assigned to the index finger, the snare drum is assigned to the middle finger, the tom-tom drum is assigned to the ring finger and the crash cymbal is assigned to the little finger (pinky), by the order of the tapping rates of the finger and the correlation of the instruments comprising the drum kit. Multiple fingers can be periodically tapped to obtain a rhythm pattern. 
